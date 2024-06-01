@@ -19,10 +19,12 @@
 ### Languages
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
+![javaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=flat-square)
+![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=red)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+![go](https://img.shields.io/badge/Go-black?logo=go&logoColor=blue&style=flat-square)
 
 ### Technologies & Frameworks
 
@@ -54,6 +56,8 @@
 ### DevOps & Tools
 
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![elastic](https://img.shields.io/badge/Elastic_Search-black?style=flat-square&logo=elasticsearch&logoColor=white)
+![solr](https://img.shields.io/badge/Apache%20Solr-black?logo=apachesolr&logoColor=fff&style=flat-square)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
 ![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
