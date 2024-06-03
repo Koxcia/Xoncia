@@ -22,6 +22,7 @@
 ![javaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=flat-square)
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=red)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![kotlin](https://custom-icon-badges.herokuapp.com/badge/kotlin-black.svg?logo=kotlin&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 ![go](https://img.shields.io/badge/Go-black?logo=go&logoColor=blue&style=flat-square)
